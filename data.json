@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Excesos",
+    "genero": "Corridos Tumbados",
+    "descripcion": "Cantante: Fuerza Regida",
+    "fecha": "2023-10-26 | Duración: 3.5 min"
+  },
+  {
+    "id": 3,
+    "nombre": "De ti exclusivo",
+    "genero": "Banda",
+    "descripcion": "Agrupacion: La arrolladora banda limon",
+    "fecha": "2007-01-01 | Duración: 4.0 min"
+  },
+  {
+    "id": 4,
+    "nombre": "Hasta Que Me Olvides",
+    "genero": "Pop",
+    "descripcion": "Cantante: Luis Miguel",
+    "fecha": "1993-08-02 | Duración: 4.3 min"
+  },
+  {
+    "id": 5,
+    "nombre": "Me Porto Bonito",
+    "genero": "Reggaeton",
+    "descripcion": "Cantante: Bad Bunny & Chencho Corleone",
+    "fecha": "2022-05-06 | Duración: 3.0 min"
+  },
+  {
+    "id": 6,
+    "nombre": "Yesterday",
+    "genero": "Rock",
+    "descripcion": "Banda: The Beatles",
+    "fecha": "1965-09-13 | Duración: 2.5 min"
+  }
+]
